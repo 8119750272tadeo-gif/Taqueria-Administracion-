@@ -33,4 +33,9 @@ El sistema desarrolla una arquitectura MVC. Lo cual nos permitirá una mejor org
 - Git
 
 ## Instalacion 
-Clonar repositorio 
+1. Clonar repositorio
+2. Abrir el proyecto en NetBeans
+3. Ejecutar el proyecto: mvn clean install
+
+## Pruebas 
+Para ejecutar pruebas: mvn test
